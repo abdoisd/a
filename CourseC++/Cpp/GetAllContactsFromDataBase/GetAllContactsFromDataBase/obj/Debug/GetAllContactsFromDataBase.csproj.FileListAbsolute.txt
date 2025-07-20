@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\obj\Debug\GetAllContactsFromDataBase.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\obj\Debug\GetAllContactsFromDataBase.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\bin\Debug\GetAllContactsFromDataBase.exe.config
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\bin\Debug\GetAllContactsFromDataBase.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\bin\Debug\GetAllContactsFromDataBase.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\obj\Debug\GetAllContactsFromDataBase.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\obj\Debug\GetAllContactsFromDataBase.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\GetAllContactsFromDataBase\GetAllContactsFromDataBase\obj\Debug\GetAllContactsFromDataBase.exe.config

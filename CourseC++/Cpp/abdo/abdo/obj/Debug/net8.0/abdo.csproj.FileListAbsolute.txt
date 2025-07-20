@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\bin\Debug\net8.0\abdo.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\bin\Debug\net8.0\abdo.deps.json
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\bin\Debug\net8.0\abdo.runtimeconfig.json
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\bin\Debug\net8.0\abdo.dll
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\bin\Debug\net8.0\abdo.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.dll
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\refint\abdo.dll
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\abdo.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\abdo\abdo\obj\Debug\net8.0\ref\abdo.dll

@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+C:\Users\lenovo\source\repos\Project1\Project1\Project1.cpp(19,17): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\lenovo\source\repos\Project1\Project1\Project1.cpp(20,25): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  Project1.vcxproj -> C:\Users\lenovo\source\repos\Project1\x64\Debug\Project1.exe

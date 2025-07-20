@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ConsoleApp4\obj\Debug\ConsoleApp4.exe.config

@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\bin\Debug\CourseDB_Connectvity.exe.config
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\bin\Debug\CourseDB_Connectvity.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\bin\Debug\CourseDB_Connectvity.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\obj\Debug\CourseDB_Connectvity.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\obj\Debug\CourseDB_Connectvity.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\obj\Debug\CourseDB_Connectvity.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\obj\Debug\CourseDB_Connectvity.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseDB_Connectvity\CourseDB_Connectvity\obj\Debug\CourseDB_Connectvity.exe.config

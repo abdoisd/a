@@ -1,0 +1,2 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\BusnessLier\obj\Debug\BusnessLier.BLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\BusnessLier\obj\Debug\BusnessLier.BLL.csproj.CoreCompileInputs.cache

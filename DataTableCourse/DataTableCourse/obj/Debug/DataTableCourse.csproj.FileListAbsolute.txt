@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\bin\Debug\DataTableCourse.exe.config
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\bin\Debug\DataTableCourse.exe
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\bin\Debug\DataTableCourse.pdb
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\obj\Debug\DataTableCourse.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\obj\Debug\DataTableCourse.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\obj\Debug\DataTableCourse.exe
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\obj\Debug\DataTableCourse.pdb
+C:\Users\lenovo\source\repos\DataTableCourse\DataTableCourse\obj\Debug\DataTableCourse.exe.config

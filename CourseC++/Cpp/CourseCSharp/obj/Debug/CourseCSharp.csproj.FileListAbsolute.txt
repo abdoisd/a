@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\bin\Debug\CourseCSharp.exe.config
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\bin\Debug\CourseCSharp.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\bin\Debug\CourseCSharp.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\obj\Debug\CourseCSharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\obj\Debug\CourseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\obj\Debug\CourseCSharp.exe
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\obj\Debug\CourseCSharp.pdb
+C:\Users\lenovo\source\repos\CourseC++\Cpp\CourseCSharp\obj\Debug\CourseCSharp.exe.config

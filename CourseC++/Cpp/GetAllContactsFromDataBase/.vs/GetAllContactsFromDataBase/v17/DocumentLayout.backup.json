@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\CourseC\u002B\u002B\\Cpp\\GetAllContactsFromDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE97323-67D7-4750-95EF-015980D2E294}|GetAllContactsFromDataBase\\GetAllContactsFromDataBase.csproj|c:\\users\\lenovo\\source\\repos\\coursec\u002B\u002B\\cpp\\getallcontactsfromdatabase\\getallcontactsfromdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE97323-67D7-4750-95EF-015980D2E294}|GetAllContactsFromDataBase\\GetAllContactsFromDataBase.csproj|solutionrelative:getallcontactsfromdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\CourseC\u002B\u002B\\Cpp\\GetAllContactsFromDataBase\\GetAllContactsFromDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "GetAllContactsFromDataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\CourseC\u002B\u002B\\Cpp\\GetAllContactsFromDataBase\\GetAllContactsFromDataBase\\Program.cs*",
+              "RelativeToolTip": "GetAllContactsFromDataBase\\Program.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1YAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T23:04:42.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

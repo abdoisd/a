@@ -1,0 +1,2 @@
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ProjectContacts3Liers\obj\Debug\ProjectContacts3Liers.UI.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CourseC++\Cpp\ProjectContacts3Liers\obj\Debug\ProjectContacts3Liers.UI.csproj.CoreCompileInputs.cache
