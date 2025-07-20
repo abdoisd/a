@@ -33,31 +33,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CountryData.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:53:44.26Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactData.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:53:22.798Z"
+              "WhenOpened": "2025-06-28T23:14:49.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,16 +94,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\ContactData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:14:49.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T23:53:22.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ContactsWinFormSolution (2)\\ContactsDataAccessLayer\\CountryData.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T23:53:44.26Z"
             },
             {
               "$type": "Document",
